@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Varun Gurav</h1>
 <h3 align="center">"Enthusiastic electronic engineer, committed to crafting innovative hardware solutions and pushing the boundaries of technology."</h3>
-<img alogn="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+<img alogn="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Multi end effector CNC milling Machine**
